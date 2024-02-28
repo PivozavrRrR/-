@@ -1,0 +1,15 @@
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\bin\Debug\net6.0\ИКР.exe
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\bin\Debug\net6.0\ИКР.deps.json
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\bin\Debug\net6.0\ИКР.runtimeconfig.json
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\bin\Debug\net6.0\ИКР.dll
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\bin\Debug\net6.0\ИКР.pdb
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\obj\Debug\net6.0\ИКР.csproj.AssemblyReference.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\obj\Debug\net6.0\ИКР.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\obj\Debug\net6.0\ИКР.AssemblyInfoInputs.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\obj\Debug\net6.0\ИКР.AssemblyInfo.cs
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\obj\Debug\net6.0\ИКР.csproj.CoreCompileInputs.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\obj\Debug\net6.0\ИКР.dll
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\obj\Debug\net6.0\refint\ИКР.dll
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\obj\Debug\net6.0\ИКР.pdb
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\obj\Debug\net6.0\ИКР.genruntimeconfig.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\ИКР\obj\Debug\net6.0\ref\ИКР.dll
